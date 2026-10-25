@@ -1,15 +1,11 @@
 
-<h1 align="center">Hey, I'm Safin 👋</h1>
+<h1 align="center">Hey, I'm Mashiyat Ahmed Safin</h1>
 
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🎮 Game Developer</h3>
-
-<p align="center">
-  Computer Science Graduate · Software Testing · Unity & C#
-</p>
+<h3 align="center">Cybersecurity Enthusiast | Game Developer | Computer Science Graduate</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science graduate from BRAC University with professional experience in product operations, software testing, quality assurance, and backend operations.
 
@@ -17,12 +13,12 @@ I'm exploring the world of **cybersecurity and information security** while buil
 
 Whether I'm testing software, learning network security, or experimenting with game mechanics, I'm always looking to learn something new and build something better.
 
-- 🔐 Exploring cybersecurity, network security, and secure software development
-- 🎮 Developing games and gameplay mechanics with Unity and C#
-- 🧪 Interested in security testing, QA, automation, and problem-solving
-- 🕹️ Participating in game jams and building creative projects
+- Exploring cybersecurity, network security, and secure software development
+- Developing games and gameplay mechanics with Unity and C#
+- Interested in security testing, QA, automation, and problem-solving
+- Participating in game jams and building creative projects
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 Currently developing my knowledge and practical skills in:
 
@@ -38,7 +34,7 @@ Currently developing my knowledge and practical skills in:
 
 - Cisco Networking Academy: Introduction to Cybersecurity
 
-## 🎮 Game Development
+## Game Development
 
 I'm into pixel art, retro-style games, atmospheric experiences, and small projects with thoughtful gameplay.
 
@@ -49,7 +45,7 @@ My current focus is learning by building, from small prototypes to more complete
 - Game jams and rapid prototyping
 - Experimenting with retro-inspired game concepts
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -71,7 +67,7 @@ My current focus is learning by building, from small prototypes to more complete
 
 `Git` `GitHub` `VS Code` `Node.js` `MySQL`
 
-## 🕹️ Featured Project
+## Featured Project
 
 ### The Whitmore Library
 
@@ -79,9 +75,9 @@ A cozy library management game with a mysterious twist, developed with **Team Ed
 
 Manage books, help readers, repair damaged items, and keep the library running. After closing time, however, you might discover that you're not alone.
 
-🎮 **[Play The Whitmore Library](https://arkesphere.itch.io/the-whitmore-library)**
+**[Play The Whitmore Library](https://arkesphere.itch.io/the-whitmore-library)**
 
-## 🚀 Currently Working Toward
+## Currently Working Toward
 
 - Building practical cybersecurity and information security skills
 - Exploring application security and security testing
@@ -91,14 +87,14 @@ Manage books, help readers, repair damaged items, and keep the library running. 
 
 I enjoy both sides of technology: **building things people love to use and learning how to make them secure.**
 
-## 🤝 Connect With Me
+## Connect With Me
 
-📧 **Email:** [mashiyat.safin@gmail.com](mailto:mashiyat.safin@gmail.com)
+**Email:** [mashiyat.safin@gmail.com](mailto:mashiyat.safin@gmail.com)
 
-💻 **GitHub:** [@Toji-Fushiguro28](https://github.com/Toji-Fushiguro28)
+**GitHub:** [@Toji-Fushiguro28](https://github.com/Toji-Fushiguro28)
 
 ---
 
 <p align="center">
-  <i>Always learning, always building. 🔐🎮</i>
+  <i>Always learning, always building.</i>
 </p>
